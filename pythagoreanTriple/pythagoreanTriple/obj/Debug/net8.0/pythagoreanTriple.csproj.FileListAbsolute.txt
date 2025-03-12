@@ -1,0 +1,14 @@
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\bin\Debug\net8.0\pythagoreanTriple.exe
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\bin\Debug\net8.0\pythagoreanTriple.deps.json
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\bin\Debug\net8.0\pythagoreanTriple.runtimeconfig.json
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\bin\Debug\net8.0\pythagoreanTriple.dll
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\bin\Debug\net8.0\pythagoreanTriple.pdb
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.AssemblyInfoInputs.cache
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.AssemblyInfo.cs
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.csproj.CoreCompileInputs.cache
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.dll
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\refint\pythagoreanTriple.dll
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.pdb
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\pythagoreanTriple.genruntimeconfig.cache
+C:\Users\4833527\source\repos\pythagoreanTriple\pythagoreanTriple\obj\Debug\net8.0\ref\pythagoreanTriple.dll

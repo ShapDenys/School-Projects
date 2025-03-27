@@ -16,7 +16,7 @@
     }
     else
     {
-        Console.WriteLine("Z tego nie wyjdzie trójkąt");
+        Console.WriteLine("Z tego nie wyjdzie trójkąt prostokątny");
     }
 }
 catch (Exception e)
